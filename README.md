@@ -4,20 +4,13 @@ In order to give credibility and validity to the notes, I have also mentioned th
 
 > ⚠️ **Disclaimer:** they are not perfect, may contain errors, may gloss over some parts and sometimes contain memes and dumb jokes or unrelated notes. The structure often does not exactly match the lectures, I wrote them in a way that made more sense to me. Use them responsibly.
 
-# 📘 Computer Vision
+# 📘 Imaging and Diagnostic Techniques
 
 - **University:** University of Trento
 - **Professor:** Andrea Massa
 - **Academic Year:** 2023-2024
 - **Credits:** 6 ECTS
 - **Grade:** 30L
-
-# 📘 Computer Vision
-
-- **University:** University of Trento
-- **Professor:** Andrea Massa
-- **Academic Year:** 2023-2024
-- **Credits:** 6 ECTS
 
 ## 🗒️ Course Description
 
